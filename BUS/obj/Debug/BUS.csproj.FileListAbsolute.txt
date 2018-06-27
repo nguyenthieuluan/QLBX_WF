@@ -1,0 +1,70 @@
+D:\QuanLyBenXe\BUS\bin\Debug\BUS.dll
+D:\QuanLyBenXe\BUS\bin\Debug\BUS.pdb
+D:\QuanLyBenXe\BUS\bin\Debug\DAO.exe
+D:\QuanLyBenXe\BUS\bin\Debug\DTO.exe
+D:\QuanLyBenXe\BUS\bin\Debug\DAO.pdb
+D:\QuanLyBenXe\BUS\bin\Debug\DTO.pdb
+D:\QuanLyBenXe\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\QuanLyBenXe\BUS\obj\Debug\BUS.dll
+D:\QuanLyBenXe\BUS\obj\Debug\BUS.pdb
+D:\BTVN\QuanLyBenXe - Copy\BUS\bin\Debug\BUS.dll
+D:\BTVN\QuanLyBenXe - Copy\BUS\bin\Debug\BUS.pdb
+D:\BTVN\QuanLyBenXe - Copy\BUS\bin\Debug\DAO.exe
+D:\BTVN\QuanLyBenXe - Copy\BUS\bin\Debug\DTO.exe
+D:\BTVN\QuanLyBenXe - Copy\BUS\bin\Debug\DAO.pdb
+D:\BTVN\QuanLyBenXe - Copy\BUS\bin\Debug\DTO.pdb
+D:\BTVN\QuanLyBenXe - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\BTVN\QuanLyBenXe - Copy\BUS\obj\Debug\BUS.dll
+D:\BTVN\QuanLyBenXe - Copy\BUS\obj\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\bin\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\bin\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\obj\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\BUS\obj\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\bin\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\bin\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\obj\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\BUS\obj\Debug\BUS.pdb
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\BUS.dll
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\BUS.pdb
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.exe
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.exe
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.pdb
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.pdb
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.dll
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.pdb
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\BUS.dll
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\BUS.pdb
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.exe
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.exe
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.pdb
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.exe.config
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.pdb
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.exe.config
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.dll
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.pdb
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\BUS.dll
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\BUS.pdb
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.exe
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.exe
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.pdb
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DAO.exe.config
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.pdb
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\bin\Debug\DTO.exe.config
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.dll
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\BUS\obj\Debug\BUS.pdb

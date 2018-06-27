@@ -1,0 +1,50 @@
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\bin\Debug\DTO.exe.config
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\bin\Debug\DTO.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\bin\Debug\DTO.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.pdb
+D:\admin\QuanLyBenXe\DTO\bin\Debug\DTO.exe.config
+D:\admin\QuanLyBenXe\DTO\bin\Debug\DTO.exe
+D:\admin\QuanLyBenXe\DTO\bin\Debug\DTO.pdb
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.exe
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.pdb
+D:\QuanLyBenXe\DTO\bin\Debug\DTO.exe.config
+D:\QuanLyBenXe\DTO\bin\Debug\DTO.exe
+D:\QuanLyBenXe\DTO\bin\Debug\DTO.pdb
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.exe
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.pdb
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe.config
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.pdb
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.Properties.Resources.resources
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.exe
+F:\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.pdb
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe.config
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.pdb
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.Properties.Resources.resources
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.exe
+F:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.pdb
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe.config
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.pdb
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.exe
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.pdb
+E:\MH\Win Nang Cao\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
